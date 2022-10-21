@@ -1,2 +1,2 @@
-![Click here](https://en.wikipedia.org/wiki/Voronoi_diagram) to learn more about voronoi diagrams.
-![Click here](https://en.wikipedia.org/wiki/Delaunay_triangulation) ro learn more about delaunay triangulation.
+[Click here](https://en.wikipedia.org/wiki/Voronoi_diagram) to learn more about voronoi diagrams.
+[Click here](https://en.wikipedia.org/wiki/Delaunay_triangulation) ro learn more about delaunay triangulation.
